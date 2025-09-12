@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy":"npm ru build",
-    "deploy":"gh-pages -d bulid",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d bulid",
     "lint": "eslint .",
     "preview": "vite preview"
   },
