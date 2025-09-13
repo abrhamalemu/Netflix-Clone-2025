@@ -19,7 +19,6 @@
     "@mui/material": "^7.3.2",
     "axios": "^1.11.0",
     "deploy": "^1.0.3",
-    "githubpage": "^1.0.6",
     "movie-trailer": "^3.2.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
